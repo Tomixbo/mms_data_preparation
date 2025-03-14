@@ -1,6 +1,5 @@
 # Data Preparation 
-*inspired by [facebook/mms_project - Data preparation](https://github.com/facebookresearch/fairseq/tree/main/examples/mms/data_prep)*
-*Edited by Tomixbo*
+*inspired by [facebook/mms_project - Data preparation](https://github.com/facebookresearch/fairseq/tree/main/examples/mms/data_prep) - Code edited by Tomixbo*
 
 We describe the process of aligning long audio files with their transcripts and generating shorter audio segments below. 
 
